@@ -6,4 +6,4 @@ The goal is to survive for 60 seconds. However, be wary for the falling spherica
 
 In order to be able to run this project/game, you'll need Unity version 2019.4.29f1 at least. You can download the entire project and put it in a folder then import it into unity.
 
-Wheather you're playing the game or checking out the scripts, Have fun!.
+Whether you're playing the game or checking out the scripts, Have fun!.
